@@ -1,0 +1,988 @@
+﻿#,Word,Meaning
+1,‫عَوٌْذ‬,"to take refuge, to take protection"
+2,‫أَعُوْذُ‬,"I take refuge, I take protection"
+3,‫بِ‬,"of, with, by, in"
+4,‫مِنْ‬,"from, of, some of, since, then"
+5,‫رَجِيْمٌ‬,"stoned, cursed, damned"
+6,‫اِسْمٌ‬,"name, noun"
+7,‫اَ َّ لرحْمَنُ‬‏,"Beneficent, Compassionate"
+8,‫اَل َّ رحِيْمٌ‬,"merciful, Compassionate"
+9,‫اَلْحَمُْد‬,"the praise, thanks, commend, admire"
+10,‫لِ‬,"for, because of, due to, for the sake of"
+11,‫رَبِّ  الْعَالَمِيْنَ‬,"Sustainer of the worlds, Lord of the worlds/creatures"
+12,‫مَالِكِ‬,"owner, king, master"
+13,‫يَوْمَ‬,day
+14,‫اَلِّ ديْن‬,"judgment, religion, faith, creed"
+15,‫إَِّ ياكَ‬,Thee alone
+16,‫نَعْبُدُ‬,we worship
+17,‫َو‬,and
+18,‫نَسْتَعِيْنُ‬,"we ask for help, assistance, support"
+19,‫اِسْتَعَانَ‬,"to ask for help, succor, support"
+20,‫اِهْدِ‬,"guide, direct, lead on right course or way, show the way, make aware"
+21,‫نَا‬,"us, our, ours"
+22,‫صِراطَ‬,"path, way course"
+23,‫مُسْتَقِيْمٌ‬,"straight, upright, erect, correct, righteous honest"
+24,‫اََّ لذِيْنَ‬,"those, who"
+25,‫أَنْعَمْتَ‬,"you have favored, you bestowed grace"
+26,‫عَلَيْهِمْ‬,"unto them, upon them"
+27,‫غَيْر‬,other than
+28,مَغْضُوْبٌ,those who earned wrath
+29,‫لَا‬,"not, no, do not, don't"
+30,‫اَل َّ ضآِّ ليَْن‬‏,"who go astray, who lose the way"
+32,‫ذالِكَ‬,"this, that"
+33,‫لَارَيْبَ‬,"no doubt, no suspicion"
+34,‫فِيْهِ‬,"in this, in, at, on, within"
+35,‫مَُّ تقِيَْن‬,"those who ward off evil, pious, God-fearing"
+36,‫يُؤْمِنُوْنَ‬,they believe
+37,‫غَيْبُ‬,"unseen, secret, invisible"
+38,‫َو‬,"and, and also"
+39,‫يُقيْمُوْنَ‬,"they establish, they are steadfast"
+40,‫ال َّ ّصلَاةُ‬‏,prayer
+41,‫مِ َّ ما‬,"of that, from that"
+42,‫رَزَقْنَا‬,"we have provided, bestowed, blessed, endowed with livelihood"
+43,‫نَا‬,"we, us, our"
+44,‫هُمْ‬,"them, they, their"
+45,‫يُنْفِقُوْنَ‬,they spend / distribute
+46,‫بِمَا‬,"which, with"
+47,‫أُنْزِلَ‬,"revealed, sent down"
+48,‫إِلَيْكَ‬,unto thee
+49,‫مَا‬,"which, whatever"
+50,‫قَبْلِكَ‬,before thee
+51,‫ءاخِرَةٌ‬,"life after death, hereafter, life to come"
+52,‫يُوْقِنُوْنَ‬,"they are certain of, sure, affirm"
+53,‫اُوْلآئِكَ‬,those / (these) people
+54,‫عَلى‬,"on, upon, above"
+55,‫هُدًى‬,guidance
+56,‫مُفْلِحُوْنَ‬,successful
+57,‫إِنَّ ‬,"certainly, undoubtedly, doubtless"
+58,‫آَفَرُوْا‬,"they disbelieved, they rejected"
+59,‫سَوَآءٌ‬,"equal, all the same"
+60,‫ءَ‬,whether (sign of interrogation)
+61,‫أَنْذَرْتَ‬,you warned / frightened
+62,‫أَمْ‬,or
+63,‫لَمْ‬,not
+64,‫لَا يُؤْمِنُوْنَ‬,they do / will not believe
+65,‫خَتَمَ‬,"sealed, closed, concluded"
+66,‫قُلُوْ‬ب‬,hearts
+67,‫سَمْعِهِمْ‬,their ears / hearing
+68,‫أَبْصَارٌ‬,"eye-sight, eyes"
+69,‫غِشَاوَةٌ‬,"covering, dimness"
+70,‫وَلَهُمْ‬,and for them
+71,‫عَذَابٌ‬,"punishment, torment"
+72,‫عَظِيْمٌ‬,Great
+73,‫اَلَّ ناسُ‬,the men / mankind / people
+74,‫مَنْ‬,who
+75,‫يَقُوْلُ‬,he says / speaks / tells
+76,‫ءَامََّ نا‬,"we believe, we have faith"
+77,‫مَالَهُمْ‬,they are not
+78,‫يُخَادِعُوْنَ‬,"they beguile, they deceive"
+79,‫إَِّ لا‬,"but, except"
+80,‫أَنْفُسَهُمْ‬,their person / soul
+81,‫مايَشْعُرُوْنَ‬,they don't perceive / realize
+82,‫مَرَضٌ‬,"disease, illness, sickness"
+83,‫فَ‬,"therefore, then"
+84,‫زَادَ‬,increased
+85,‫أَلِيْمٌ‬,painful
+86,‫بِمَا‬,because
+87,‫آَانُوْا‬,they were
+88,‫يكْذِبُوْنَ‬,they tell a lie
+89,‫إذَا‬,"when, whenever"
+90,‫قِيْلَ‬,is said / told
+91,‫لَهُمْ‬,unto them
+92,‫لَاتُفْسِدُوْا‬,"make not mischief, act not wickedly / corruptly"
+93,‫فِي الْأَرْ ِض‬‏,on the earth
+94,‫قَالُوْا‬,they said
+95,‫إنَّ َما‬,"only, infact, verily"
+96,‫نَحْنُ‬,we
+97,‫ُمصْلِحُوَْن‬,"those who put things right, reformers"
+98,‫أَلَا‬,"be aware, be careful, better understand"
+99,‫مُفْسِدُوْنَ‬,"mischievous, persons, disturbance creators"
+100,‫لاآِنْ‬,but
+101,‫ءَامُِنوْا‬,"believe, become faithful"
+102,‫آَمَا‬,"like, as, alike"
+103,‫أَ‬,what (sign of interrogation)
+104,‫سُفَهآُء‬,foolish/insolent/stupid persons
+105,‫لَقُوْا‬,they met
+106,‫ءَامََّ نا‬,we believed / became faithful
+107,‫خَلَوْا‬,"they went in loneliness, secluded in privacy, they are alone"
+108,‫شَيَاطِيْن‬,"devils, devil type behavior"
+109,‫مُسْتَهْزِءُوْنَ‬,"those who scoff, sneer or laugh"
+110,‫يَُ ُّمد‬,"grants leave, gives respite"
+111,‫طُغْيَانْ‬,"contumacy, wickedness"
+112,‫يَعْمَهُوَْن‬,they wander blindly in confusion
+113,‫اِشْتَرَوْا‬,they purchased / bartered
+114,‫ضَلَالٌَة‬,"deception, straying"
+115,‫هُدى‬,"guidance, right way"
+116,‫فَمَا‬,so (it did) not
+117,‫رَبِحَتْ‬,"profited, benefited"
+118,‫مَارَبِحَتْ‬,did not profit
+119,‫تِجَارَةٌ‬,"commerce, trade, trafficking"
+120,‫مُهْتَدِيَْن‬,rightly directed or guided persons
+121,‫مَثَلٌ‬,example
+122,‫كَ‬,"as, like"
+123,‫اَّ لذِيْ‬,one who
+124,‫اِسْتَوْقََد‬,"kindled, lighted"
+125,‫نَارٌ‬,fire
+126,‫فَلَ َّ ما‬,when
+127,‫أَضَآءَتْ‬,lighted
+128,‫حَوْلَهُ‬,"around him, his surroundings"
+129,‫ذَهَبَ‬,"took away, carried off"
+130,‫تَرَكَ‬,"left, abandoned"
+131,‫فِىْ‬,"in, in between"
+132,‫ظُلُمَاتٌ‬,"darkness, gloom"
+133,‫لَا يُبْصِرُوْنَ‬,they do not see
+134,‫صُمٌّ ‬,deaf
+135,‫بُكْمٌ‬,dumb
+136,‫عُمْىٌ‬,blind
+137,‫فَهُمْ‬,therefore they
+138,‫لَايَرْجِعُوْنَ‬,they do / will not return
+139,‫أَوْ‬,or
+140,‫كَ‬,like
+141,‫صَِّ يبٌ‬,"rain-laden cloud, rainy storm"
+142,‫سَمَآءُ‬,sky
+143,‫رَعْدٌ‬,thunder
+144,‫بَرْقٌ‬,lightening
+145,‫يَجْعَلُوْنَ‬,they thrust/put/place
+146,‫أَصَابِعْ‬,fingers
+147,‫ااذَاٌن‬,ears
+148,‫صَوَاعِقُ‬,thunderclaps
+149,‫حَذَرٌ‬,"fear, danger"
+150,‫مَوْتٌ‬,death
+151,‫مُحِيْطٌ‬,"one who surrounds, encompasses"
+152,‫يَكَادُ‬,"almost, nearly"
+153,‫يَخْطَفُ‬,snatches / takes away
+154,‫آَُّ لمَا‬,"as often, whenever"
+155,‫مَشَوْا‬,they walked
+156,‫إذَا‬,when
+157,‫أَظْلَمَ‬,became dark
+158,‫قَامُوْا‬,they stood still
+159,‫لَوْ‬,if
+160,‫شَآءَ‬,"willed, wished"
+161,‫آُ  ِّل شَيٍْء‬,everything
+162,‫قَدِيْرٌ‬,"omnipotent, command, capable, skillful"
+163,‫يآأَُّ يهَا الَّ ناسُ‬,O! mankind
+164,‫اُعْبُدُوْا‬,worship
+165,‫رَبَّ ‬,"Sustainer, lord, Provider"
+166,‫آُمْ‬,your
+167,‫أََّ لذِيْ‬,one who
+168,‫خَلَقَ‬,"created, molded, shaped"
+169,‫لَعََّ لكُْم‬,so that you
+170,‫تََّ تقُوْنَ‬,"you may ward off(evil), you become righteous/pious"
+171,‫جَعَلَ‬,"created, made"
+172,‫لَكُمْ‬,for you
+173,‫أَرْضٌ‬,earth
+174,‫فِرَاشًا‬,"couch, resting place, bed"
+175,‫بِنَآءٌ‬,"canopy, covering"
+176,‫أَنْزَلَ‬,"sent down, revealed"
+177,‫مَآءٌ‬,water
+178,‫أَخْرَجَ‬,brought forth
+179,‫بِِه‬,"therewith, with it"
+180,‫مِنْ‬,"of, by, from"
+181,‫ثَمَرَاتْ‬,"fruits, gains, benefits"
+182,‫فَلَاتَجْعَلُوْا‬,they do not set up / appoint
+183,‫أَنْدَادًا‬,"partners, equivalent"
+184,‫أَنْتُمْ‬,you
+185,‫تَعْلَمُوْنَ‬,you know / are aware
+186,‫إِنْ‬,if
+187,‫آُنْتُمْ‬,you are / were
+188,‫فِي‬,"in, within"
+189,‫رَيْبٌ‬,"doubt, suspicion"
+190,‫نَ َّ زلْنَا‬,we revealed
+191,‫عَلى‬,"upon, on, unto"
+192,‫عَبْدٌ‬,"slave, servant"
+193,‫فَأُْتوْا‬,so produce / bring
+194,‫سُوْرَةٌ‬,"Surah, a chapter of the Qur'aan"
+195,‫مِثْلِهِ‬,"like it, similar to it / him"
+196,‫وَادْعُوْا‬,and call
+197,‫شُهَدَاءُ‬,witnesses
+198,‫مِنْ دُوْنِ اللَّ ِه‬,apart from Allah
+199,‫صَادِقِيَْن‬,those who are truthful
+200,‫فَ‬,then
+201,‫أِنْ‬,if
+202,‫لَمْ‬,not
+203,‫تَفْعَلُوْا‬,you can do
+204,‫لَنْ‬,never
+205,‫اََّ لتِيْ‬,"whose, that which"
+206,‫وَقُوْدٌ‬,fuel
+207,‫هَا‬,"its, her"
+208,‫حِجَارَةٌ‬,stones
+209,‫أُعَِّ دتْ‬,prepared
+210,‫آَافِرِيْنَ‬,"disbelievers, those who reject faith"
+211,‫بَ ِّ شرْ‬,give glad tidings
+212,‫بَشَارَةٌ‬,good news
+213,‫عَمِلُوْا‬,"they worked, did deeds"
+214,‫صَالِحَات‬,righteous deeds
+215,‫صَالِحُوْنَ‬,righteous persons
+216,‫أَنَّ ‬,that
+217,‫لَهُمْ‬,for them
+218,‫جََّ ناتٍ‬,gardens
+219,‫تَجْرِيْ‬,flows
+220,‫تَحْتَ‬,"underneath, under"
+221,‫أَنْهَارٌ‬,rivers
+222,‫آَُّ لمَا‬,whenever
+223,‫رُزِقُوْا‬,they are provided with
+224,‫ثَمَرَةٌ‬,fruit
+225,‫هَذَا‬,this
+226,‫أُتُوْا‬,"are provided, are given"
+227,‫مُتَشَابِهًا‬,"similar, similitude"
+228,‫أَزُوَاجٌ‬,spouses
+229,‫مُطَ َّ هرَةٌ‬,one who is purified
+230,‫خَالِدُوَْن‬,abide forever
+231,‫لَايَسْتَحْيِ‬,disdains not
+232,يَضْرِبُ مَثَلاً,"uses a similitude, gives an example"
+233,‫بَعُوْضَةٌ‬,"gnat, mosquito"
+234,‫فَمَا فَوْقَهَا‬,or ought above it
+235,‫فَأَ َّ ما‬,then as
+236,‫أََّ نهُ‬,that it / he
+237,‫حَقُّ ‬,truth
+238,‫مَاذَا‬,what
+239,‫أَرَادَ‬,"desired, wished, intended"
+240,‫يُضِ  ُّل‬,leads astray
+241,‫يَهْدِيْ‬,guides
+242,‫آَثِيرْ‬,many
+243,‫إَِّ لا‬,except
+244,‫فَاسِقِيْنَ‬,transgressors
+245,‫يَنْقُضُوْنَ‬,they break
+246,‫عَهْد‬,covenant
+247,‫مِنْ بَعْدِ‬,after it
+248,‫مِيْثَاق‬,ratification (of covenant)
+249,‫يَقْطَعُوْنَ‬,they cut off
+250,‫أَمَرَ‬,commanded
+251,‫يُوْصَلُ‬,be joined
+252,‫خَاسِرُوْنَ‬,losers
+253,‫آَيْفَ‬,how
+254,‫أَمْوَاتًا‬,dead
+255,‫فَأَحْيَاآُمْ‬,and (he) gave you life
+256,‫ثُ َّم‬,then
+257,‫تُرْجَعُوْنَ‬,you'll be returned
+258,‫خَلَقَ‬,created
+259,‫لَكُمْ‬,for you
+260,‫ثَمَرَةٌ‬,fruit
+335,‫حُزْنٌ‬,"grief, sorrow"
+336,‫آَفَرُوْا‬,"they rejected faith, they disbelieved"
+337,‫آََّ ذبُوْا‬,they belied
+338,‫ءَايَاتِنَا‬,our signs
+339,‫أَصْحَابُ الَّ نارِ‬,"companions of the fire, inhabitants of the fire"
+340,‫يَا‬,O!
+341,‫بَنِيْ اِسْرَآئِيْلَ‬,children of Israel
+342,‫اذْآُرُوْا‬,"remember, recall, call to mind"
+343,‫أَوْفُوْا‬,fulfill
+344,‫عَهْد‬,"covenant, promise"
+345,‫أُوْفِ‬,I (shall) fulfill
+346,‫إَِّ يايَ‬,me alone
+347,‫فَارْهَبُوْنِ‬,"and fear me, and have awe of me"
+348,‫أَنْزَلُْت‬,I revealed / have sent down
+349,‫مُصَِّ دقًا‬,that which confirms
+350,‫لِمَا‬,(for) that which
+351,‫مَعَكُمْ‬,with you
+352,‫لَا تَكُوْنُوْا‬,"be not, do not become"
+353,‫أَ َّ ولَ‬,"the first, prime"
+354,‫لَا تَشْتَرُوْا‬,do not sell
+355,‫اايَاتِْي‬,my signs
+356,‫ثَمَنًا‬,price
+357,‫قَلِيْلاً‬,"little, small"
+358,‫لَاتَلْبِسُوْا‬,do not cover / confound
+359,‫بَاطِل‬,falsehood
+360,‫لَاتَكْتُمُوْا‬,"do not conceal, hide"
+361,‫أَقِيْمُوْا‬,"perform, be steadfast in"
+362,‫ارْآَعُوْا‬,"bow down, bend down"
+363,‫رَاآِعِيْنَ‬,those that bow down
+364,‫أَ‬,do? (what?)
+365,‫تَاْمُرُوْنَ‬,you enjoin
+366,‫بِرّ‬,"right conduct, peity, righteousness"
+367,‫تَنْسَوْنَ‬,you forget
+368,‫أَنْفُسَكُمْ‬,yourselves
+369,‫تَتْلُوْنَ‬,you read / recite
+370,‫أَفَلَا‬,will then (you) not
+371,‫تَعْقِلُوْنَ‬,you understand / think
+372,‫ْ‫اِ‬ستَعِيْنُوْا‬,seek help
+373,‫لَكَبِيْرَةٌ‬,indead hard
+374,‫خَاشِعِيْنَ‬,those who are humble
+375,‫يَظُُّ نوْنَ‬,they bear in mind
+376,‫أََّ نهُمْ‬,that they
+377,‫مُلَاقُوْا‬,those who are going to meet
+378,‫رَاجِعُوْنَ‬,those who return
+379,‫أَِّ نيْ‬,that I
+380,‫فَ َّ ضلْ‬‏‫ُت‬,"I preferred, I gave preference"
+381,‫وَاَّ تقُوْا‬,and beware/guard
+382,‫يوْمًا‬,day
+383,‫لَاتَجْزِيْ‬,shall not avail
+384,‫نَفْسٌ‬,soul
+385,‫عَ ْن‬‏,"with regard to, about"
+386,‫لَايُقْبَلُ‬,shall not be accepted
+387,‫شَفَاعَةٌ‬,intercession
+388,‫يُنْصَرُوْنَ‬,they shall be helped
+389,‫لَا يُؤْخَذُ‬,shall not be taken
+390,‫عَدْلٌ‬,compensation
+391,‫نَ َّ جيْنَاآُمْ‬,we delivered you
+392,‫االَ‬,"people, followers"
+393,‫فِرْعَوْنَ‬,Pharaoh (A cruel king in the time of Prophet Moses (A.H.))
+394,‫يَسُوْمُوْنَ‬,they afflict
+395,‫سُوْءَ‬,evil
+396,‫عَذَاب‬,"punishment, chastisement"
+397,‫ذَبْحِ‬,to slaughter
+398,‫أَبْنَآءَ‬,"sons, male-children"
+399,‫يَسْتَحْيُوْنَ‬,they spare / let live
+400,‫نِسَآء‬,women
+401,‫وَفِيْ ذَلِكُمْ‬,"and therein, and in that"
+402,‫بَلَآءٌ‬,trial
+403,‫رَُّ بكُمْ‬,your Lord
+404,‫عَظِيْمٌ‬,"tremendous, great"
+405,‫إِذْ‬,when
+406,‫فَرَقْنَا‬,We divided / seperated
+407,‫بكُمْ‬,for you
+408,‫بَحْرٌ‬,sea
+409,‫أَغْرَقْنَا‬,we drowned
+410,‫تَنْظُرُوَْن‬,you were seeing
+411,‫وَاعَدْنَا‬,We promised
+412,‫أَرْبَعِيْنَ‬,forty
+413,‫لَيْلَة‬,night
+414,‫ثُ َّم‬,then
+415,‫اَِّ تخَذْتُمْ‬,you took
+416,‫عِجْلٌ‬,calf
+417,‫مِنْ بَعْدِِه‬,after him
+418,‫ظَالِمُوْنَ‬,"evil doers, wrong doers"
+419,‫عَفَوْنَا‬,We pardoned
+420,‫مِنْ بَعْدِ ذَلِكَ‬,after that
+421,‫فُرْقَا ْن‬‏,The Scripture to differentiate between right and wrong
+422,‫تُوْبُوْا‬,turn (in repentance)
+423,‫بَارِىٌ‬,"Maker, Creator"
+424,‫حََّ تى‬,"till, until"
+425,‫نَراى‬,we see
+426,‫جَهْرَةً‬,"openly, manifestly"
+427,‫صَاعِقَةٌ‬,"thunderbolt, thunder and lightning"
+428,‫بَعْثٌ‬,raised up
+429,‫ظََّ للْنَا‬,we gave shadow
+430,‫غَمَاٌم‬,cloud
+431,‫اَلْمَنُّ ‬,grains like those of coriander seeds
+432,‫سَلْواى‬,quails
+433,‫آُلُوْا‬,eat
+434,‫طَِّ يبَا ِت‬‏,good things
+435,‫ظَلَمُوْا‬,they wronged
+436,‫لكِنْ‬,but
+437,‫هَذِهِ‬,this
+438,‫قَرْيَةٌ‬,"town, township"
+439,‫حَيْثُ‬,wherever
+440,‫شِئْتُمْ‬,you wished
+441,‫رَغَدًا‬,plentifully
+442,‫بَا ٌب‬‏,gate
+443,‫سُ َّ جدًا‬,prostrating
+444,‫قُوْلُوْا‬,say
+445,‫حِ َّ طةٌ‬‏,forgiveness
+446,‫نَغْفِرْ‬,we (will) forgive
+447,‫خَطَايَاآُمْ‬,your faults/transgressions
+448,‫سَ‬,"soon, in near future"
+449,‫نَزِيْدُ‬,we will increase
+450,‫مُحْسِنِيْنَ‬,those who do good
+451,‫فَ‬,"but, then"
+452,‫بََّ دلَ‬,"changed, substituted"
+453,‫رِجْزًا‬,"wrath, plague, scourge"
+454,‫يَفْسُقُوَْن‬,they infringe/transgress
+455,‫اِسْتَسْقى‬,asked/prayed for water
+456,‫اِضْرِبْ‬,strike
+457,‫عَصَا‬,staff
+458,‫حَجَرْ‬,"stone, rock"
+459,‫اِنْفَجَرَ ْت‬‏,gushed forth
+460,‫اِثْنَتَا عَشَرَةَ‬,twelve
+461,‫عَيْنًا‬,"spring, fountain"
+462,‫عُيُوْنٌ‬,"springs, fountains"
+463,‫قَدْ‬,certainly
+464,‫عَلِمَ‬,knew
+465,‫آُ  ُّل‬,all
+466,‫أُنَاسٌ‬,people
+467,‫مَشْرَبٌ‬,"drinking place, place for water"
+468,‫آُلُوْا‬,eat
+469,‫اِشْرَبُوْا‬,drink
+470,‫لَاتَعْثَوْا‬,don't act corruptly
+471,‫طَعَامٌ‬,food
+472,‫وَاحِدٌ‬,one
+473,‫فَادْعُ‬,"thus call upon, pray"
+474,‫لَنَا‬,for us
+475,‫يُخْرُِج‬,brings forth
+476,‫تُنْبِتُ‬,"grows, germinates"
+477,‫بَقْلٌ‬,"herbs, vegetables"
+478,‫قَِّ ثآٌء‬,cucumbers
+479,‫فُوْمٌ‬,wheat
+480,‫عَدَسٌ‬,"lentils, a kind of pulse"
+481,‫بَصَلٌ‬,onions
+482,‫تَسْتَبْدِلُوْنَ‬,you exchange
+483,‫أَدْنى‬,lower (grade)
+484,‫خَيْرٌ‬,good (better)
+485,‫مِصٌْر‬,"big city, metropolis"
+486,‫سَأَلْتُمْ‬,you demanded / asked
+487,‫ضُرِبَتْ‬,(was) covered /struck/hit
+488,‫ذَِّ لةٌ‬,"humiliation, abasement"
+489,‫مَسْكَنَةٌ‬,poverty
+490,‫بَآعُوْا‬,they made themselves entitled
+491,‫يَقْتُلُوْنَ‬,they kill
+492,‫نَِّ بيِيْنَ‬,prophets
+493,‫عَصَوْا‬,they disobeyed
+494,‫يَعْتَدُوْنَ‬,they transgress
+495,‫هَادُوْا‬,they became Jews
+496,‫نَصَارى‬,Christians
+497,‫صَابِئِيْنَ‬,Sabians
+498,‫يَوْمُ الاَخِرَةِ‬,the last day (of resurrection)
+499,‫عَمِلَ‬,"worked, acted"
+500,‫صَالًِحا‬,"righteous, good"
+501,‫أَجْرُهُمْ‬,their reward / remuneration
+502,‫عِنْدَرَبْ‬,with Lord
+503,‫حَزِنَ‬,"grieved, became sad"
+504,‫أَخَذْنَا‬,we took
+505,‫مِيْثَاقٌ‬,"covenant, bond"
+506,‫رَفَعْنَا‬,we raised
+507,‫فَوْقَ‬,"over, above"
+508,‫طُوْرٌ‬,name of a mountain
+509,‫تَوََّ ليْتُمْ‬,you turned back / away
+510,‫لَوْ‬,if
+511,‫لَقَدْ‬,verily
+512,‫اِعْتَدَوْ‬,they transgressed / went beyond the limit
+513,‫أَ َّ لسبْتُ‬‏,"Sabbath, Saturday"
+514,‫قِرَدَةٌ‬,"apes, monkeys"
+515,‫خَاسِئِيْنَ‬,"despised, rejected"
+516,‫نَكَالاً‬,"deterrent, example"
+517,‫بَيَْن يَدَيْ‬,"before them, in their presence"
+518,‫خلْف‬,"succeeding, behind"
+519,‫مَوْعِظْةٌ‬,"lesson, admonition"
+520,‫يَأْمُرُ‬,"commands, orders"
+521,‫أَنْ‬,that
+522,‫بَقَرَةٌ‬,cow
+523,‫هُزُوًا‬,to make fun
+524,‫أَعُوْذُ‬,I take refuge
+525,‫اُدْعُ‬,"beseech, call upon, pray"
+526,‫يُبَِّ ينْ‬,make clear
+527,‫مَاهِىَ‬,what she likes
+528,‫يَقُوْلُ‬,says
+529,‫لَا فَارِضٌ‬,not old aged
+530,‫بِكْرٌ‬,too young
+531,‫عَوَانٌ‬,"between, middle"
+532,‫اِفْعَلُوْا‬,"do, act, perform"
+533,‫مَا‬,"that which, whatever"
+534,‫تُؤْمَرُوْنَ‬,you are commanded
+535,‫لَوْنُهَا‬,her / its color
+536,‫صَفْرَآءُ‬,yellow
+537,‫فَاقِعٌ‬,bright
+538,‫تَسُ  ُّر‬,"delights, gladdens"
+539,‫نَاظِرِيْنَ‬,"onlookers, beholders"
+540,‫تَشَابَهَ‬,"became dubious, resembling, ambiguous"
+541,‫شآءَ‬,"willed, wished"
+542,‫ذَلُوْلٌ‬,used for any sort of work
+543,‫تُثِْيرُالْأَرْضَ‬,tills / ploughs the earth
+544,‫تَسْقِيْ‬,waters (the field)
+545,‫حَرْثٌ‬,"field, farm"
+546,‫مُسََّ لمَةٌ‬,"without any defect, physically fit, (sound)"
+547,‫لَا شِيََة‬,"without any scar, unblemished"
+548,‫أَلآنَ‬,now
+549,‫جِئْتَ‬,you came
+550,‫مَا آَادُوْا‬,they almost did not
+551,‫قَتَلْتُمْ‬,you killed
+552,‫اَِّ دارَعْتُْم‬,you fell into a dispute
+553,‫ُمخْرِجٌ‬,one who brings forth
+554,‫تَكْتُمُوْنَ‬,you hide / conceal
+555,‫بِبَعْضِهَا‬,with some of it
+556,‫آَذالِكَ‬,"thus, in this way"
+557,‫يُحْيِيْ‬,brings to life
+558,‫مَوْتى‬,dead
+559,‫يُرِيْكُمْ‬,shows you
+560,‫آيَا ْت‬‏,signs
+561,‫تَعْقِلُوْنَ‬,you understand
+562,‫ثُ َّم‬,"then, thereafter"
+563,‫قَسَتْ‬,Hardened
+564,‫قَسَاوَةٌ‬,Hardened
+565,‫قُلُوْ‬ب‬,hearts
+566,قَلْبٌ,heart
+567,‫فَ‬,thus
+568,‫هِىَ‬,she
+569,‫كَ‬,like
+570,‫حِجَارَةٌ‬,"rocks, stones"
+571,‫أَوْ‬,or
+572,‫أَشَدُّ ‬,"worse, more severe"
+573,‫قَسْوَةٌ‬,hard
+574,‫لَمَا‬,"for indeed, verily"
+575,‫يَتَفَ َّ جرُ‬,"gushes out, bursts forth"
+576,‫أَنْهَار‬,rivers
+577,‫يُشََّ ق‬,splits asunder
+578,‫يَهْبِطُ‬,falls down
+579,‫خَشْيَةُ الَّ لهِ‬,fear of Allah
+580,‫أَفَتَطْمَعُوْنَ‬,"do you then covet?, do you then have any hope?"
+581,‫طَمَعَ‬,"desired, coveted"
+582,‫أَنْ‬,that
+583,‫قَدْ‬,surely
+584,‫فَرِيْقٌ‬,"a group, a party"
+585,‫يُحَ ِّ رفُوْنَ‬,they change / alter
+586,‫عَقَلُوْا‬,they understand
+587,‫لَقُوْا‬,they met
+588,‫قَالُوْا‬,they said / spoke
+590,‫خلَا‬,"was in privacy, got privacy,"
+591,‫خَلْوَةٌ‬,privacy
+592,‫تُحَِّ دثُوْنَ‬,you tell / narrate
+593,‫بِمَا‬,that which
+594,‫فَتَحَ‬,"revealed, disclosed, opened"
+595,‫عَلَيْكُمْ‬,to / unto / on you
+596,‫يُحآ ُّ جوْنَ‬,they argue / controverse
+597,‫يُسِ ُّ روْنَ‬,they hide / conceal
+598,‫سِرٌّ ‬,secret
+599,‫أَسْرَار‬,secrets
+600,‫يُعْلِنُوْنَ‬,they proclaim
+601,‫أُ ِّ مُّ يوْنَ‬,illiterate/unlettered (people)
+602,إِلَّا,except
+603,‫أَمَانِيُّ ‬,"ambitiouns, desires"
+604,‫وَيْلٌ‬,"woe, destruction, ruin"
+605,‫يَكْتُبُوَْن‬,they write
+606,‫أَيْدِيْهِمْ‬,their hands
+607,‫ثَمَنًا‬,"price, cost, value"
+608,‫يَكْسِبُوْنَ‬,they earn / gain
+609,‫لَنْ‬,"not, never"
+610,‫تَمَسَّ َنا‬,will touch us
+611,‫أَّ يامًا‬,days
+612,‫مَعْدُوْدَةً‬,a certain number
+613,‫قُلْ‬,say
+614,‫عَهْدٌ‬,"covenant, promise"
+615,‫يُخْلِفُ‬,"will do against, will act contrary"
+616,‫أَمْ‬,or
+617,‫بَلى‬,"yes!, Why not!"
+618,‫مَنْ‬,who
+619,   كَسَبَ,"earned, gained"
+620,‫سيِّئَة‬,"evil, wrong"
+621,‫أَحَاطَتْ‬,"surrounded, encompassed"
+622,‫خَطِيْئَةٌ‬,"error, mistake"
+623,‫وَالِدَيْنِ‬,parents
+624,‫ذِىْ القُرْبى‬,"relatives, kindred"
+625,‫يَتَامى‬,orphans
+626,‫مَسَاآِيْنُ‬,"poor, needy, miserable"
+627,‫قُوْلُوْا‬,"say, speak"
+628,‫حُسْنًا‬,"polite manner, fair"
+629,‫أَقِيْمُوْا‬,establish
+630,‫ءَاتَوُا‬,give
+632,تَوَلَّيْتُمْ,you turned away
+633,‫قَلِيْلًا‬,"few, very few"
+634,‫مِنْكُمْ‬,amongst / of you
+635,‫أَنْتُمْ‬,you
+636,‫مُعْرِضُوْنَ‬,backsliders
+637,‫دِيَارٌ‬,houses
+638,‫أَقْرَرْتُمْ‬,you have ratified
+639,‫تَشْهَدُوْنَ‬,you withness
+640,‫هَؤُلَاءِ‬,these (folk / people)
+641,تَظَاهَرُوْن,you support one another
+642,‫إِثْمٌ‬,sin
+643,‫عُدْوَانٌ‬,"transgression, to exceed the limits"
+644,‫يَاْتُوْآُمْ‬,they come to you
+645,‫أُسَارى‬,captives
+646,‫تُفَادُوْ‬,you ransom
+647,‫ُمحَ َّ رمٌ‬,"unlawful, forbidden"
+648,‫فَمَا‬,so what
+649,‫جَزَآُء‬,"recompense, reward"
+650,‫مَنْ‬,"whosoever, who"
+651,‫يَفْعَلُ‬,does
+652,‫خِزُىٌ‬,disgrace
+653,‫حَيوة‬,life
+654,‫يُ َّ ردُوْنَ‬,they will be brought back
+655,‫إِلى‬,"towards, to"
+656,‫أَشَدِّ ‬,most severe
+657,‫وَمَا‬,and no / nor
+658,‫عَ َّ ما‬,of what
+660,‫يُنْصَرُوْنَ‬,they will be helped
+661,‫لَقَدْ‬,"verily, assuredly, no doubt"
+662,‫ءَاتَيْنَا‬,we gave
+663,قَفَّيْنَا,we followed up
+664,‫اِبْنُ مَرْيَمْ‬,son of Mary
+665,بَيِّنَات,clear (signs)
+666,أَيَّدْنَا,we supported / strengthened
+667,‫رُسُلْ‬,Messengers
+668,رُوحُ ٱلْقُدُسِ,The Holy Spirit (the Angel Gabriel or Jibra'eel)
+669,‫أَفَ‬,is then?
+670,‫آَُّ لمَا‬,whenever
+671,‫جَآءَ‬,came
+672,رَسُوْل,Messenger
+673,‫لَا تَهْوى‬,desired not
+674,‫أَنْفُسُكُمْ‬,"yourselves, your hearts"
+675,اِسْتَكْبَرْتُمْ,you became arrogant
+676,‫فَرِيْقًا‬,"a group, a party"
+677,‫تَقْتُلُوْنَ‬,you slay / kill
+678,‫قَالُوْا‬,they said
+679,‫قُلُوْب‬,hearts
+680,‫غُلْفٌ‬,"wrapping, covering"
+681,‫بَلْ‬,"may, but"
+682,‫لَعَنَ‬,cursed
+683,‫هُمْ‬,"them, they"
+684,لَمَّا,when
+685,‫مُصَدِّق ‬,that which confirms
+686,‫لِمَا مَعَهُمْ‬,what was with them
+687,يَسْتَفْتِحُوْنَ,they ask for victory
+688,‫مَا عَرَفُوْا‬,which they recognised
+689,بِئْسَمَا,evil is that which
+690,‫اِشْتَرَوْا‬,they sold
+691,‫أَنْ‬,that
+692,‫يَكْفُرُوْا‬,"they disbelieve, reject faith"
+693,‫بَغْيًا‬,"to rebel / revolt, insolence"
+694,‫بَآعُوْا‬,they incurred / drew upon themselves
+695,‫مُهِيْنٌ‬,"humiliating, disgraceful"
+696,‫وَرَآءَ‬,"besides, after"
+697,‫لِمَ‬,why?
+698,‫أَنْبِيَاَء الَّلهِ‬,Prophets of Allah
+699,‫عِجْلٌ‬,calf
+700,‫رَفَعْنَا‬,we raised
+701,‫فَوْقَ‬,"above, over"
+702,‫طُوْر‬,name of a mountain
+703,‫خُذُوْا‬,hold
+704,‫بِقُ َّ وةٍ‬,"firmly, with strength"
+705,‫وَاسْمَعُوْا‬,and listen
+706,‫عَصَيْنَا‬,we disobeyed / denied
+707,‫أُشْرِبُوْا‬,"they were filled of, (they were made to drink)"
+708,‫يَأْمُرُ‬,gives command
+709,‫إِنْ آَانَتْ‬,if it is
+710,‫الَّ دارُ الْآخِرَةُ‬,home of the Hereafter
+711,‫عِنْدَالَّلهِ‬,with Allah
+712,‫خَالِصَةً‬,"exclusively, specially"
+713,مِنْ دُوْنِ النَّاس,not for others of mankind
+715,‫أَبَدًا‬,"always, ever, forever, eternal"
+716,قَدَّمَت,sent before
+717,‫أَيْدِيْهِمْ‬,their hands
+718,‫عَلِيْمٌ‬,"Aware, Knower"
+719,‫لَتَجِدَنَّ ‬,"you will indeed find,"
+720,‫أَحْرَصَ‬,most greedy
+721,‫حَيوة‬,life
+722,‫أَشْرَآُوْا‬,they associated (partners with Allah)
+723,‫يَوَدُّ ‬,"wishes, desires"
+724,‫أَحَدُهُمْ‬,each one / everyone of them
+725,‫لَوْ‬,if
+726,‫يُعَ َّ مرُ‬,"is allowed to live, given life"
+727,‫أَلْفَ‬,one thousand
+728,‫سَنَة‬,year
+729,مَا هُو,not that / it
+730,‫مُزَحْزِحٌ‬,"one who can save, remover"
+731,‫بَصِيْرٌ‬,"beholder, one who sees"
+732,‫عَدُ ٌّ و‬,enemy
+733,‫إِذْنٌ‬,"leave, permission"
+734,‫بُشْرَى‬,glad tidings
+735,‫جِبْرِيْلَ‬,the Angel Jibra' eel (Gabriel) (A.H)
+736,‫مِيْكَالَ‬,the Angle Mekaal (Michael) (A.H)
+737,‫فَاسِقُوْنَ‬,those who rebel against Allah's commands
+738,‫نَبَذَ‬,"threw away, cast aside"
+739,‫أُوْتُوْا‬,they were given
+740,‫وَرَآءَ‬,behind
+741,‫ظُهُورْ‬,backs
+778,‫خَلَاقٌ‬,"portion, share"
+779,‫لَبِئْسَ‬,surely it is evil
+780,‫شَرَوْا‬,they sold
+781,أَنَّهُمْ,that they
+782,‫مَثُوْبَةٌ‬,"recompense, reward"
+783,‫خَيْرٌ‬,better
+784,‫رَاعِنَا‬,"attend to us, listen to us"
+785,‫أُنْظُرْنَا‬,"look upon us (above two Arabic words have similar meanings. But the Jews, by
+twisting their tongues, linger the first word which means our herdsman. Therefore,
+muslims were forbidden to use this word and advise to use second word.)"
+786,‫مَا يَوَدُّ ‬,doesn't like/ love / wish
+787,‫يَخْتَصُّ ‬,chooses
+788,‫مَنْ َّ يشَآءُ‬,whom (He) wills
+789,‫ذُوالْفَضْلِ‬,of bounty / grace
+790,‫عَظِيْمٌ‬,"great, infinte"
+791,‫نَنْسَخْ‬,we abrogate
+792,‫أَوْ‬,or
+793,‫نَأْ ِت‬‏,we bring
+794,‫أَلَمْ‬,do (you) not
+795,‫تَعْلَمْ‬,you know
+796,دُوْنِ اللَّهِ,besides Allah
+797,‫وَلِيٌّ ‬,"patron, friend"
+798,‫نَصِيْرٌ‬,helper
+799,‫أَمْ تُرِيْدُوْنَ‬,do you desire / intend?
+800,‫تَسْئَلُوْا‬,you question
+801,كَمَا,as
+802,‫سُئِلَ‬,was questioned
+803,يَتَبَدَّلُ,exchanges
+804,‫سَوآءَ ال َّ سبِيْل‬,"plain road, even way"
+805,‫وَدَّ ‬,"desired, wished, longed"
+806,كَثِيْرٌ,many
+807,‫لَوْ‬,"that, if"
+808,تَبَيَّنَ,"became manifest, evident"
+809,‫عَفْوٌ‬,to forgive / pardon / excuse
+810,‫صَفْحٌ‬,"to look over, to pass over"
+811,‫يَاتِيْ‬,"brings about, sends"
+812,‫أَمْرٌ‬,"command, order"
+813,تُقَدِّمُوْا,you send forth
+814,‫تَجِدُوْا‬,you will find
+815,‫عِنْدَ‬,with
+816,‫تِلْ َك‬‏,"these (actual meaning is ""that"")"
+817,‫أَ مَانِيُّهُمْ,their desires
+818,‫هَاتُوْا‬,"brings about, sends"
+819,‫بُرْهَانٌ‬,"proof, evidence"
+820,‫بَلى‬,"nay, why not"
+821,‫أَسْلَمَ‬,"surrendered, submitted"
+822,‫وَجْهَهُ‬,"his face, himself"
+823,‫ُمُحْسِنٌ‬,one who does good
+824,‫أَجْرٌ‬,"reward, remuneration, wage"
+825,‫حُزُنٌ‬,"grief, sadness, sorrow, gloom"
+826,‫قَالَتِ الْيَهُوْدُ‬,the Jews said
+827,‫لَيْسَتْ‬,not
+828,‫آَذَلِك‬‬,likewise
+829,‫أَظْلَمُ‬,"greater wrong-doer, more unjust"
+830,‫مَنَعَ‬,"forbade, prevented"
+831,مَسَاجِد,mosques
+832,‫يُذْآَرُ‬,being mentioned
+833,‫سَعى‬,strived
+834,‫خَرَاب‬,ruin
+835,‫دَخَلَ‬,to enter
+836,‫خَآئِفِيْنَ‬,those who fear
+837,‫خِزْىٌ‬,disgrace
+838,‫أَيْنَمَا‬,"whithersoever, wherever"
+839,تُوَلُّوْا,you turn
+840,‫ثُ َّم‬,there
+841,‫وَجْهُ الَّلهِ‬,face of Allah
+842,‫وَلَدًا‬,son
+843,‫سُبْحَانَُه‬,"be He Glorified, Glory be to Him"
+844,‫قَانِتٌ‬,one who renders worship to Allah
+845,‫بَدِيْعٌ‬,"The Originator, Innovator"
+846,‫إِذَا‬,when
+847,‫قَضى‬,decreed
+848,‫أَمْرً‬,matter
+849,‫آُنْ‬,be
+850,‫يَكُوْنُ‬,it becomes
+851,‫لَوْ لَا‬,why (does) not
+852,‫تَشَابَهَتْ‬,"similar, alike, resembling"
+853,‫بَيَّ َّ نا‬,we have made clear
+854,‫بَشِيْر‬,one who gives good tidings
+855,‫نَذِيْرٌ‬,warner
+856,‫لَا تُسْئَلُ‬,you will not be asked
+857,‫أَصْحَابُ الْجَحِيْم‬,inmates of the Hell
+858,‫لَنْ‬,never
+859,‫تَرَْضى‬,will be pleased / satisfied
+860,‫عَنْكَ‬,with you
+861,حَتَّى,unless
+862,تَتَّبِعَ,you follow
+864,‫أَهْوَآءٌ‬,desires
+865,‫جَآءَكَ‬,came unto thee
+866,‫مَا لَكَ‬,you have no
+867,‫عَدْلٌ‬,compensation
+868,‫اِبْتَلى‬,tried
+869,‫أَتَمَّ ‬,fulfilled
+870,‫جَاعِلٌ‬,maker
+871,‫إِمَامًا‬,"leader, Imam"
+872,‫ذُ ِّ رَّ يةٌ‬,"offspring, progeny"
+873,‫لَايَنَالُ‬,shall not reach
+874,‫عَهْدٌ‬,"covenant, promise"
+875,‫جَعَلْنَا‬,we made
+877,‫مَثَابَةً‬,a place of resort / assemble
+878,اِتَّخَذُوْا,"take, adopt"
+879,مَقَامُ إِبْرَاهِيْمَ,place where Prophet Ibrahim (AH) stood
+880,‫مُصَلّى‬,place of worship (prayer)
+881,‫طَ ِّ هرَا‬,"purify, clean"
+882,‫طَآئِفِيْنَ‬,those who go round (the Ka'ba)
+883,‫عَاآِفِيْنَ‬,those who stay (at mosques for worship
+885,أَمْنًا,"peace, security"
+886,‫اُرْزُقْ‬,provide
+887,‫أَهْلُ‬,people of
+889,‫أَضْطَرُّ ‬,I shall compel / coerce
+890,‫رَفَعَ‬,raised
+891,‫قَوَاعِدَ‬,foundations
+892,تَقَبَّل,accept
+893,‫أُ َّ مةٌ‬,"group of people, (community)"
+894,‫أَرِنَا‬,show us
+895,‫مَنَاسِكَ‬,"ways of worship, rites"
+896,‫تُبْ‬,"relent, turn (in mercy), accept (our repentence)"
+897,‫ابْعَثْ‬,raise up
+898,‫الْحِكْمَةُ‬,wisdom
+899,‫يُزَ ِّ آيْ‬,"purifies, makes them grow"
+900,‫رَغِبَ عَنْ‬,turned away
+901,‫رَغَبَ إِلى‬,turned towards
+902,‫سَفِهَ‬,be fooled
+903,‫اِصْطَفَيْنَا‬,we chose
+904,‫أَسْلِمْ‬,"surrender, submit"
+905,‫وَ َّ صى‬‏,enjoined
+906,‫بَنِيْ‬,sons
+907,‫يا بَنيَّ ‬,O my sons
+908,‫إِذْحَضَرَ‬,when (it) came
+909,‫إِلهٌ‬,God
+910,‫َابَاءَ‬,fathers
+911,‫خَلَتْ‬,passed away
+912,‫عَ َّ ما‬,of what
+914,‫تَهْتَدُوْا‬,you will be rightly guided
+915,‫حَنِيْفًا‬,the upright
+916,‫الْأَسْبَاط‬,"tribes, descendants"
+917,‫أُوْتِىَ‬,was / were given
+918,نَبِيُّوْنَ,Prophets
+920,‫بَيْنَ‬,between
+921,‫اَحَدٍ‬,anyone
+922,تَوَلَّوْا,they turned away
+923,‫شِقَاقٌ‬,"schism, split, dissension"
+924,‫فَ‬,"so, then"
+925,‫سَ‬,"shortly, in near future"
+926,‫يَكْفِيْ‬,suffices
+927,‫كَ‬,"you, your"
+928,‫يَكْفِيْكَهُمُ الَّلهُ‬,Allah will suffice you in defense against them
+929,‫صِبْغَةٌ‬,"color, dye"
+930,‫مَنْ‬,who
+931,‫أَحْسَنَ‬,better
+932,‫عَابِدُوْنَ‬,worshippers
+933,‫فِي الَّله‬,"concerning Allah, regarding Allah"
+934,مُخْلِصُوْنَ,sincere (worshippers)
+935,‫اَعْلَمُ‬,know better
+936,‫آَتَمَ‬,concealed
+937,‫شَهَادَةٌ‬,testimony
+938,‫سَ‬,"now, near, in near future"
+939,مَا وَلَّهُمْ,what has turned them
+940,‫قِبْلَةَ‬,place towards which one faces while praying
+942,‫آَذالِكَ‬,thus
+943,‫مَا جَعَلْنَا‬,we did not appoint / made
+944,‫مِ َّ منْ‬,who
+945,‫يَنْقَلِبُ‬,turns away
+946,‫عَقِبٌ‬,heel
+947,‫عَقِبَيْهِ‬,his two heels
+948,‫إِنْ آَانَتْ‬,though it was
+949,‫لَ‬,verily
+950,‫آَبِيْرَةٌ‬,"momentous, grievous"
+951,‫يَضِيْعُ‬,lets (it) go waste
+952,رَؤُوْف,full of kindness
+953,‫قَدْ‬,assuredly
+954,‫نَرَى‬,we see
+955,‫تَقَلُّ  َب‬‏,turning
+956,‫وَجْهَكَ‬,your face
+957,فَلَنُوَلِّيَنَّك,"now, we shall turn you"
+958,‫فَ‬,so
+959,‫لَ‬,verily
+961,‫أَنَّ ‬,"surely, verily"
+962,‫وَلِّ ‬,turn
+963,‫شَطْرَ‬,towards
+964,‫الْمَسْجِدِ الْحَرَامِ‬,the sacred mosque (the mosque containing Ka'bah)
+965,‫حَيْثُ‬,"wherever, wheresoever"
+966,‫أُوْتُوْا الْكِتَاب‬‬,were given the Book (scripture)
+967,‫مَا‬,"not (The meaing of this word depends upon the context. It is used as (1) an
+interrogative pronoun: what , why; (2) a relative pronoun: that, which, whatever, all
+that, (3) negation: not; and (4) conjunction: as long as, whenever, as far as, etc.)."
+968,‫لَئِنْ‬,even if
+969,‫أَتَيْتَ‬,you brought
+970,‫يَعْرِفُوْنَ‬,they recognize
+971,‫أَبْنَآءُ‬,sons
+972,‫آَتَمَ‬,concealed
+973,‫ُممْتَرِيْنَ‬,"doubters, (those who) waver"
+974,‫وِجْهَةٌ‬,"direction, goal"
+975,‫مُوَلِّي‬ي‬ ‬,one who turns
+976,‫اِ ْستَبِقُوْا‬‏,"compete, vie with one another"
+977,‫خَيْرَاتْ‬,"good deeds, works"
+978,‫أَيْنَمَا‬,"wheresoever, wherever"
+979,‫وَلِّ ‬,turn
+981,‫حُ َّ جةٌ‬,argument
+982,‫أُتِ ُّم‬,I (may) complete
+983,‫لَعَ َّ ل‬,"may, might"
+984,‫تَهْتَدُوْنَ‬,you are / will be rightly guided
+985,‫آَمَا‬,"even as, similarly"
+986,‫أَرْسَلْنَا‬,we (have) sent
+987,‫فِيْكُْم‬,among you
+988,‫يَتْلُوْا‬,recites
+989,‫ذِآْرٌ‬,remembrance
+990,‫شُكْرٌ‬,"thanksgiving, gratitude"
+991,‫مَعَ‬,with
+992,‫سَبِيْلِ الَّله‬,way / path of Allah
+993,‫أَمْوَات‬,dead
+994,‫أَحْيَآءٌ‬,"living, alive"
+995,‫نَبْلُوْا‬,we shall try / test
+996,‫جُوْعٌ‬,hunger
+997,‫نَقْضٌ‬,loss
+998,‫أَمْوَالٌ‬,"wealth, worldly goods"
+999,‫ثَمَرَاتٌ‬,"fruits, crops"
+1000,‫أَصَابَتْ‬,"struck, befall"
+1001,‫مُصِيْبَةٌ‬,"misfortune, calamity"
+1002,‫صَلَوَاتٌ‬,blessings
+1003,‫صَفَا وَ مَرْوَة‬,names of two mountains in makkah near Ka'bah
+1004,‫شَعَآئِرْ‬,"symbols, signs"
+1005,‫حَجَّ ‬,performed Hajj (the pilgrimage)
+1006,‫إِعْتَمَرَ‬,"perfomed Umrah (visited makkah to perform the pilgrimage in a period other than
+that of Hajj)"
+1007,‫جُنَاٌح‬,"sin, wrong"
+1008,‫تَطَ َّ وعَ‬,did (more) good on his own accord
+1009,‫شَاآٌِر‬,"responsive to gratitude, bountiful in rewarding"
+1010,‫عَلِيْمٌ‬,"aware, all knowing"
+1011,‫أَجْمَعِيْنَ‬,"combined, all"
+1012,‫خَ َّ خفَ‬,lightened
+1013,‫يُنْظَرُوَْن‬,they will be reprieved / granted respite
+1014,‫خَلْقٌ‬,"creation, to creat"
+1015,‫اِخْتِلَا ْف‬‏,"difference, alternation"
+1016,‫لَيْلَ‬,night
+1017,‫نَهَارٌ‬,day
+1018,‫فُلْكٌ‬,ship
+1019,‫تَجْرِيْ‬,"runs, sails"
+1020,‫بَحْرٌ‬,sea
+1021,‫بَثَّ ‬,"spread, dispersed, scattered"
+1022,‫دَآَّ بةٌ‬,"moving creatures, beasts"
+1023,‫تَصْرِيْفٌ‬,veering
+1024,‫رِيَاحُ‬,winds
+1025,‫سَحَابْ‬,clouds
+1026,‫مُسَ َّ خرٌ‬,that which is made subservient
+1027,‫بَيْنَ‬,between
+1028,‫دُوِْن الَّلهِ‬,besides Allah
+1029,‫أَنْدَادًا‬,"compeers, equals"
+1030,‫حُبٌّ ‬,love
+1031,‫أَشَدُّ ‬,"stronger, strauncher"
+1032,‫تَبَ َّ رأَ‬,"disowned, cleared oneself, exonerated"
+1033,‫اَّ تبِعُوْا‬,those who were followed
+1034,‫اَّ تبَعُوْا‬,they followed
+1035,‫تَقَ َّ طعَ‬‏,"cut off, cut asunder"
+1036,‫أَسْبَابْ‬,"aims, ties, relations, means"
+1037,‫لَْو أَنَّ  لَنَا‬,"if it were for us, would that be for us"
+1038,‫آَ َّ رةً‬,(second / more) chance
+1039,‫حَسَرَاتْ‬,intense regrets
+1040,‫َخارِجِيْنَ‬,those who come out
+1041,‫نَار‬,"fire, hell fire"
+1042,‫طَِّ يبًا‬,"wholesome, good"
+1043,‫خُطُوَات‬,footsteps
+1044,‫سُوْءٌ‬,evil
+1045,‫فَحْشَآءْ‬,"indecent, shameful"
+1046,‫أَلْفَيْنَا‬,we found
+1047,‫أَوَلَوْ‬,what even though
+1048,‫نَعْقٌ‬,to shout
+1049,‫دُعَآءٌ‬,to call
+1050,‫نِدَآءٌ‬,to cry
+1051,‫إَِّ ياهُ‬,(to) him only / alone
+1052,‫حَ َّ رمَ‬,"forbade, made unlawful"
+1053,‫مَيْتَةٌ‬,"carrion, dead"
+1054,‫دٌَم‬,blood
+1055,‫لَحْمٌ‬,"meat, flesh"
+1056,‫ِخنْزِيْرٌ‬,"swine, pig"
+1057,‫أُِ  َّهل‬,"on which a name is invoked, consecrated"
+1058,‫أُضْطَُرَّ ‬,is driven / forced by necessity
+1059,‫بَاغٍ‬,disobedient
+1060,‫عَادٍ‬,transgressing
+1061,‫أِثْمٌ‬,"sin, guilt"
+1062,‫بُطُوْنٌ‬,bellies
+1063,‫فَمَا أَصْبَرَهُمْ‬,Then how constant are they? / How daring are they?
+1064,‫شِقَاقٌ‬,schism
+1065,‫بَعِيْدٌ‬,far
+1066,‫لَيْسَ‬,(it is) not
+1067,‫بِرٌّ ‬,"righteousness, piety"
+1068,‫قِبَلَ‬,towards
+1069,‫أَتَى‬,gave
+1070,‫ذَوِى الْقُرْبى‬,"kinsfolk, kindred relations, those who are near"
+1071,‫يَتَامى‬,orphans
+1072,‫مَسَاآِيْنَ‬,"needy, poor"
+1073,‫اِبْنُ ال َّ سبِيْلِ‬,wayfarers
+1074,‫سَآئِلِيْنَ‬,"those who ask, beggars"
+1075,‫رِقَابْ‬,"slaves, (necks of slaves), those in bondage"
+1076,‫مُوْفُوْنَ‬,those who kepp/fulfil (promise)
+1077,‫بَأْسَآءٌ‬,"suffering, tribulation"
+1078,‫ضَ َّ رآءُ‬,"adversity, hardship"
+1079,‫حِيْنَ الْبَأْسِ‬,time of stress / panic
+1080,‫صَدَقُوْا‬,sincere / true
+1081,‫مَُّ تقُوْنَ‬,"God-conscious, God-fearing"
+1082,‫آُتِبَ‬,"is prescribed, ordained"
+1083,‫قِصَاصٌ‬,"retaliation, just retribution, law of equality"
+1084,‫قَتْلى‬,"murdered, slain"
+1085,‫الْحُ  ُّر‬,the free man
+1086,‫عَبْدُ‬,slave
+1087,‫أُنْثى‬,female
+1088,‫َ‫عُفِ‬ى‬,is forgiven / pardoned
+1089,‫أَخِيْهِ‬,his brother
+1090,‫إِِّ تبَاعٌ‬,"to follow, to adhere"
+1091,‫مَعْرُوْفٌ‬,"according to usage, fair"
+1092,‫أَدَآءٌ‬,"payment, compensations"
+1093,‫إِحْسَانٌ‬,"kindness, goodly manner"
+1094,‫تَخْفِيْفٌ‬,"alleviation, concession, act of making light"
+1095,‫اعْتَدَى‬,"transgressed, exceeded the limit"
+1096,‫حَيوةٌ‬,life
+1097,‫أُولِي الْأَلْبَابِ‬,those (men) of understanding or insight
+1098,‫حَضََر‬,approached
+1099,‫تَرَكَ‬,left (behind)
+1100,‫خَيْرٌ‬,"wealth, goods"
+1101,‫وَصَِّ يةٌ‬,"to make bequest, will"
+1102,‫سَمِعَ‬,"heard, listened"
+1103,‫إِثْمٌ‬,"sin, guilt"
+1104,‫خَافَ‬,"feared, apprehended"
+1105,‫مُوْصٍ‬,testator
+1106,‫جَنَفًا‬,"unjust, mistake, partiality"
