@@ -1,8 +1,10 @@
 import random
+from datetime import datetime
 from tkinter import *
 from tkinter.ttk import Combobox
 import textwrap
 import pandas
+import os.path
 
 # create the window
 window = Tk()
@@ -35,12 +37,13 @@ flip_resize = flip_button_img.subsample(2, 2)
 mastered_button_icon = PhotoImage(file='icons/Mastered_list.png')
 mastered_button_icon_resized = mastered_button_icon.subsample(2, 2)
 review_button_icon = PhotoImage(file="icons/Review_list.png")
-review_button__resized = review_button_icon.subsample(2, 2)
+review_button_resized = review_button_icon.subsample(2, 2)
 
 # creating empty list to store the review list, mastered list and the displayed word
-review_list = []
-mastered_list = []
-displayed_word = []
+# review_list = []
+# mastered_list = []
+# displayed_word = []
+# wrong_formatted_word_list = []
 
 
 # this function takes the user choice from combobox and select which csv file to load
@@ -68,16 +71,14 @@ start_button.config(pady=25)
 # lan_b = known language, generally english
 
 def flashcard_run(file, lan_a_title, lan_b_title):
+    displayed_word = []
+    review_list = []
+    mastered_list = []
     # when this function runs the first word is displayed here
     data = pandas.read_csv(file)
     words_dict = data.to_dict(orient="records")
     lan_a_title = lan_a_title
     lan_b_title = lan_b_title
-    first_word = words_dict[random.randint(0, 15)]["lan_a"]
-    print(first_word)
-    flash_card.itemconfig(current_word, fill="black", font=("Arial", 75, "bold"))
-    flash_card.itemconfig(current_word, text=first_word)
-    flash_card.itemconfig(current_title, text=lan_a_title)
 
     # this function picks word and displays in the canvas
     def pick_word():
@@ -112,7 +113,7 @@ def flashcard_run(file, lan_a_title, lan_b_title):
         line_number = 1
         for item in input_list:
             output = (f"{line_number}: {(item['lan_a'])} : {(item['lan_b'])}")
-            pop_label = Label(pop, text=str(output), font=("Arial", 22, "normal"), wraplength=500)
+            pop_label = Label(pop, text=str(output), font=("Arial", 22, "normal"), wraplength=700)
             pop_label.grid(row=row, column=0, sticky='w')
             row += 1
             line_number += 1
@@ -127,20 +128,40 @@ def flashcard_run(file, lan_a_title, lan_b_title):
                 wrapped_word = textwrap.fill((words_dict[i]["lan_b"]), width=25)
                 flash_card.itemconfig(current_word, text=wrapped_word)
                 flash_card.itemconfig(current_word, fill="white", font=("Arial", 32, "bold"))
-            elif words_dict[i]["lan_b"] == word_on:
+            elif words_dict[i]["lan_b"] == word_on.replace('\n', ' '):
                 flash_card.itemconfig(card, image=card_front)
                 flash_card.itemconfig(current_title, text=lan_a_title, font=("Arial", 32, "italic"))
                 flash_card.itemconfig(current_word, text=words_dict[i]["lan_a"])
                 flash_card.itemconfig(current_word, fill="black", font=("Arial", 75, "bold"))
 
-    # creating other buttons
+    # def add_to_unformatted():
+    #     word_on = flash_card.itemcget(current_word, 'text')
+    #     for i in range(len(words_dict)):
+    #         if words_dict[i]["lan_a"] == word_on:
+    #             wrong_formatted_word_list.append(words_dict[i])
+    #     print(wrong_formatted_word_list)
+    #
+    # def save_unformatted_list():
+    #     file_path = "data/wrong_formatted_word_file.csv"
+    #     if os.path.isfile(file_path):
+    #         # If file already exists, read in the existing data and append to it
+    #         file_updated = pandas.read_csv(file_path, index_col=0)
+    #         file_updated = file_updated.append(wrong_formatted_word_list, ignore_index=True)
+    #     else:
+    #         # If file doesn't exist yet, create it with the initial data
+    #         file_updated = pandas.DataFrame(wrong_formatted_word_list)
+    #
+    #     file_updated.to_csv(file_path, index=False)
 
-    review_button = Button(text="Not it", image=review_button__resized, highlightthickness=0,
+    # creating other buttons
+    pick_word()
+    review_button = Button(text="Not it", image=review_button_resized, highlightthickness=0,
                            command=lambda: list_generator(review_list))
     review_button.grid(row=2, column=0, )
     review_button.config(padx=25, pady=25)
 
-    mastered_button = Button(text="Got it", image=mastered_button_icon_resized, highlightthickness=0, command=add_to_mastered)
+    mastered_button = Button(text="Got it", image=mastered_button_icon_resized, highlightthickness=0,
+                             command=add_to_mastered)
     mastered_button.grid(row=2, column=1, )
     mastered_button.config(padx=25, pady=25)
 
@@ -154,6 +175,15 @@ def flashcard_run(file, lan_a_title, lan_b_title):
     correct_button = Button(image=right_button_img, highlightthickness=0, command=pick_word)
     correct_button.grid(row=5, column=0, columnspan=2)
     correct_button.config(padx=25, pady=25)
+
+    # wrong_formatted_word_button = Button(text="add to list", highlightthickness=0, command=add_to_unformatted)
+    # wrong_formatted_word_button.grid(row=6, column=0)
+    # # wrong_formatted_word_button.config(padx=25, pady=25)
+
+    # create_list = Button(text="save list", highlightthickness=0, command=save_unformatted_list)
+    # create_list.grid(row=6, column=1)
+    # # create_list.config(padx=25, pady=25)
+
 
 
 window.mainloop()
